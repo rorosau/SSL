@@ -1,4 +1,3 @@
-# Contenido 
 # El compilador seleccionado
 MinGW
 # La versión ese compilador
